@@ -19,9 +19,4 @@ const cards = [
         price: '100 k',
     },
     {
-        id: 3,
-        title: 'Cassio',
-        description: 'Хорошие часы по приемлемой цене',
-        price: '15 k',
-    },
 ];
